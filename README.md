@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm ANKIT SHARMA</h1>
-- 📄 My website : [TAP HERE](ankits-website-profile.netlify.app)
 <h3 align="center">A passionate Full Stack Developer | Data Analyst | Competitive Coder | MERN Stack Enthusiast</h3>
+
+
+
 <p align="center">
   <img src= "https://cdn.kibrispdr.org/data/1755/anime-gif-wallpaper-9.gif">
 </p>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-777&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-777" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me: <a href="https://app.netlify.com/sites/ankits-website-profile/overview" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+</a></h2>
 <p align="left">
 <a href="https://twitter.com/an2ki4t5s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="an2ki4t5s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit176" height="30" width="40" /></a>
