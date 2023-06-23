@@ -8,15 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-777&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-777" /> </p>
 
-- 🔭 I’m currently working on [DALL-E A.I IMAGE GENERATOR](https://github.com/ANKIT-777/Dall-E-img-generator.git)
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **DATA SCIENCE, CODING, NODE JS**
-
-- 📫 How to reach me **an2ki4t5s@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1JogUq8OT4E0mE2inu43yY4v_BTSjM2-u?usp=sharing](https://drive.google.com/drive/folders/1JogUq8OT4E0mE2inu43yY4v_BTSjM2-u?usp=sharing)
+- 📄 My resume [https://drive.google.com/drive/folders/1JogUq8OT4E0mE2inu43yY4v_BTSjM2-u?usp=sharing](https://drive.google.com/drive/folders/1JogUq8OT4E0mE2inu43yY4v_BTSjM2-u?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
