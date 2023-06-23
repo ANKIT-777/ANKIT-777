@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm ANKIT SHARMA</h1>
 <h3 align="center">A passionate Full Stack Developer | Data Analyst | Competitive Coder | MERN Stack Enthusiast</h3>
+<p align="center">
+  <img src= "https://cdn.kibrispdr.org/data/1755/anime-gif-wallpaper-9.gif">
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-777&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-777" /> </p>
 
