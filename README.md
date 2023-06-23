@@ -4,11 +4,7 @@
   <img src= "https://cdn.kibrispdr.org/data/1755/anime-gif-wallpaper-9.gif">
 </p>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-777&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-777" /> </p>
-
-- 📄 My resume [https://drive.google.com/drive/folders/1JogUq8OT4E0mE2inu43yY4v_BTSjM2-u?usp=sharing](https://drive.google.com/drive/folders/1JogUq8OT4E0mE2inu43yY4v_BTSjM2-u?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-777&show_icons=true&locale=en" alt="ankit-777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-777&" alt="ankit-777" /></p>
+
+- 📄 My resume [ DRIVE LINK ](https://drive.google.com/drive/folders/1JogUq8OT4E0mE2inu43yY4v_BTSjM2-u?usp=sharing)
