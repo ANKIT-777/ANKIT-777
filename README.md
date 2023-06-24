@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-777&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-777" /> </p>
 
-<h2 align="left">Connect with me: <a href="https://app.netlify.com/sites/ankits-website-profile/overview" target="blank">
+<h2 align="left">Connect with me: <a href="https://ankits-website-profile.netlify.app/" target="blank">
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a></h2>
 <p align="left">
