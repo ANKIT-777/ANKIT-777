@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src= "https://cdn.kibrispdr.org/data/1755/anime-gif-wallpaper-9.gif">
+  <img src= "https://media.tenor.com/j1YKodSvKwAAAAAd/puneet-superstar-lord-puneet.gif">
 </p>
 
 
