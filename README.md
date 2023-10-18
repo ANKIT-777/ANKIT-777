@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src= "https://media.tenor.com/j1YKodSvKwAAAAAd/puneet-superstar-lord-puneet.gif">
+  <img src= "https://i.pinimg.com/originals/1b/69/e8/1b69e8656d0742af6221c4552a5e66f9.gif">
 </p>
 
 
